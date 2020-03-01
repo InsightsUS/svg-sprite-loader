@@ -14,6 +14,7 @@
     "no-param-reassign": "off",
     "no-underscore-dangle": "off",
     "comma-dangle": ["error", "never"],
-    "import/no-extraneous-dependencies": ["error", {"devDependencies": ["utils/*.js", "**/*.test.js"]}]
+    "import/no-extraneous-dependencies": ["error", {"devDependencies": ["utils/*.js", "**/*.test.js"]}],
+    "linebreak-style": "off"
   }
 }
